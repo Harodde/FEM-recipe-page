@@ -220,7 +220,7 @@ li {
 
     .recipe_title {
         font-size: 2.406rem;
-        padding: 25px 0 16px;
+        padding: 40px 0 25px;
     }
 
     .recipe_preparation_times {
@@ -237,6 +237,10 @@ li {
     .recipe_nutrition p {
         width: fit-content;
         padding-bottom: 22px;
+    }
+
+    .recipe_nutrition h2 {
+        padding-bottom: 16px;
     }
 
     .nutrition_row {
